@@ -1,5 +1,7 @@
 **PasswordPRO** - генератор паролей, генерирующий уникальные **пароли** в несколько кликов!  
-![passwordPRO](https://github.com/thmn8/PasswordPRO/assets/48221293/04d43ac9-bcd5-4328-ba63-107daf2764ba)
+
+![passwordPRO](https://github.com/thmn8/PasswordPRO/assets/48221293/f306b2f9-ed62-4f74-bc98-c375b64d84d6)
+
   
   **Возможности:**  
 -   Возможность сохранения генерированных паролей в .txt файле.
